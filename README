@@ -1,12 +1,13 @@
 # Generador de Contraseñas Aleatorias
 
+## Descripción
 
-## Características
-Este proyecto es el primer proyecto en el marco de la Inmersion Dev Javascript de Alura Latam, que consiste en un **generador de contraseñas aleatorias** desarrollado con **HTML**, **CSS** y **JavaScript**. Permite generar contraseñas seguras con una combinación de letras, números y símbolos especiales. También incluye validación para determinar si la contraseña es fuerte o débil, y ofrece un botón para limpiar el campo de la contraseña.
+Este proyecto es el primer proyecto en el marco de la Inmersión Dev JavaScript de Alura Latam. Consiste en un **generador de contraseñas aleatorias** desarrollado con **HTML**, **CSS** y **JavaScript**. Permite generar contraseñas seguras con una combinación de letras, números y símbolos especiales. También incluye validación para determinar si la contraseña es fuerte o débil, y ofrece un botón para limpiar el campo de la contraseña.
 
-## DESAFIOS:
+## Desafíos
+
 - Generación de contraseñas aleatorias.
-- Incluir letras mayúsculas, minúsculas, números y símbolos especiales (!@#$%^&*()).
+- Inclusión de letras mayúsculas, minúsculas, números y símbolos especiales (!@#$%^&*()).
 - Validación de la fortaleza de la contraseña (fuerte o débil).
 - Botón para limpiar el campo de la contraseña.
 
@@ -20,16 +21,15 @@ Este proyecto es el primer proyecto en el marco de la Inmersion Dev Javascript d
 
 El proyecto consta de los siguientes archivos:
 
-
-### 1. **index.html**
+### `index.html`
 
 Contiene el esqueleto de la página web, con un campo de entrada para mostrar la contraseña generada y botones para generar o limpiar la contraseña.
 
-### 2. **style.css**
+### `style.css`
 
-Define el estilo y la disposición de los elementos de la página web. Utiliza un diseño minimalista, centrado para facilitar la experiencia de usuario.
+Define el estilo y la disposición de los elementos de la página web. Utiliza un diseño minimalista y centrado para facilitar la experiencia de usuario.
 
-### 3. **script.js**
+### `script.js`
 
 Este archivo contiene la lógica de la aplicación:
 
@@ -37,3 +37,8 @@ Este archivo contiene la lógica de la aplicación:
 - **Validación de fortaleza**: Verifica si la contraseña incluye mayúsculas, minúsculas, números y caracteres especiales para determinar si es fuerte.
 - **Limpieza del campo de la contraseña**: Permite borrar el contenido del campo con un botón.
 
+## Realizado por
+
+**Noelia Orsini** para **Alura Latam**
+
+#InmersionDevAlura
