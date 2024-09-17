@@ -37,5 +37,3 @@ Este archivo contiene la lógica de la aplicación:
 - **Validación de fortaleza**: Verifica si la contraseña incluye mayúsculas, minúsculas, números y caracteres especiales para determinar si es fuerte.
 - **Limpieza del campo de la contraseña**: Permite borrar el contenido del campo con un botón.
 
-Realizado por Noelia Orsini para Alura Latam
-#InmersionDevAlura!
